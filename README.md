@@ -1,15 +1,10 @@
   
 
-### <div align="center">I'm Balaji, a full-time full-stack developer 👨‍💻 working as a Software Engineer since 2018 🚀</div>  
+### <div align="center">I'm Balaji, a full-stack developer 👨‍💻 since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working at [Full Creative](https://full.io/)  
-  
-
-- 🌱 I’m currently learning React and Node.js  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+   
   
 
 <br/>  
