@@ -1,6 +1,6 @@
   
 
-### <div align="center">I'm Balaji, a full-stack developer 👨‍💻 since 2018 🚀</div>  
+### <div align="center">I'm Balaji, a full-stack developer since 2018</div>  
   
 
 - 🔭 I’m currently working at [Full Creative](https://full.io/)  
